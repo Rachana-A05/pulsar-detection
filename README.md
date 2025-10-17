@@ -52,7 +52,7 @@ The models were evaluated based on performance metrics such as accuracy, precisi
 
 git clone https://github.com/YourUsername/pulsar-detection-ML.git
 
-cd pulsar-detection-ML
+cd pulsar-detection
 
 ```
 
@@ -166,7 +166,7 @@ pulsar-detection-ML/
 
 └── data/                            # (Optional) Folder for dataset(s)
 
-&nbsp;   └── pulsar\_data.csv              # Your dataset file (if stored locally)
+&nbsp;   └── HTRU_2.csv              # Your dataset file (if stored locally)
 
 ```
 
@@ -176,7 +176,7 @@ pulsar-detection-ML/
 
 
 
-\* Keep all files inside the \*\*same main folder (`pulsar-detection-ML/`)\*\*.
+\* Keep all files inside the \*\*same main folder (`pulsar-detection/`)\*\*.
 
 \* The `data/` folder is optional — only needed if you’re storing the dataset locally.
 
@@ -213,36 +213,6 @@ pulsar-detection-ML/
 \* \*\*Rachana A (PES1UG23AM223)\*\*
 
 \* \*\*Priyanka MP (PES1UG23AM218)\*\*
-
-
-
----
-
-
-
-\## 🔒 Repository Access
-
-
-
-This repository is \*\*private\*\* and shared only with:
-
-
-
-\* Assigned \*\*Faculty\*\*
-
-\* \*\*Teaching Assistants (TAs)\*\*
-
-
-
-To grant access:
-
-
-
-1\. Go to \*\*Settings → Collaborators\*\* on GitHub.
-
-2\. Add their usernames.
-
-3\. They’ll receive an email invitation to access the repository.
 
 
 
